@@ -1,0 +1,7 @@
+<Entry xmlns="urn:NEID" xmlns:d="urn:NEID" level="10"><DEnt><HwdGp><HWD>magnetisation</HWD><VarCnt><VAR> magnetization </VAR></VarCnt><LabelGp><DOMAIN label="phys"/><REGION label="non_AmE"/></LabelGp></HwdGp><FwkSenCnt><POS code="n"/><GRAM code="uncount"/><MEANING> process of becoming or making sth magnetic </MEANING><ExCnt><EX>They should understand how the Weiss field leads to the occurrence of spontaneous <b>magnetisation</b> .
+</EX></ExCnt><ExCnt><EX>Saturation - The point at which the tape is fully magnetized and will accept no more <b>magnetization</b> .
+</EX></ExCnt><ExCnt><EX>Global models take no account of magnetic fields caused by the <b>magnetisation</b> of local rocks ( the crustal anomaly field ) , nor of the regular daily variations in the global field , nor of disturbances in the field .
+</EX></ExCnt></FwkSenCnt><FwkSenCnt><POS code="n"/><GRAM code="uncount"/><MEANING> state of being magnetised </MEANING><ExCnt><EX>Coercivity : The reverse field that must be applied to a magnetised sample to reduce its overall <b>magnetisation</b> to zero .
+</EX></ExCnt><ExCnt><EX>The electron <b>magnetisation</b> can then be detected directly via a tuned RF coil whose axis is oriented along the direction of the applied field .
+</EX></ExCnt><ExCnt><EX>In particular they measured the <b>magnetization</b> of an ensemble of 107 copper rings , each only 0.5 microns in diameter .
+</EX></ExCnt></FwkSenCnt></DEnt></Entry>

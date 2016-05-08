@@ -1,0 +1,4 @@
+<Entry xmlns="urn:NEID" xmlns:d="urn:NEID" level="10"><DEnt><HwdGp><HWD>mainsheet</HWD></HwdGp><FwkSenCnt><POS code="n"/><LabelGp><DOMAIN label="sailg"/><DOMAIN label="naut"/></LabelGp><MEANING>a sheet used for controlling the mainsail of a boat</MEANING><ExCnt><EX>You should try and steer the boat with the <b>mainsheet</b>.
+</EX></ExCnt><ExCnt><EX>If it begins to feel dead, ease the <b>mainsheet</b> a fraction.
+</EX></ExCnt><ExCnt><EX>This means that when you let the <b>mainsheet</b> out, the boom does not move up but simply out parallel with the deck.
+</EX></ExCnt></FwkSenCnt></DEnt></Entry>

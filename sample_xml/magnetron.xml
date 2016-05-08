@@ -1,0 +1,3 @@
+<Entry xmlns="urn:NEID" xmlns:d="urn:NEID" level="10"><DEnt><HwdGp><HWD>magnetron</HWD><LabelGp><DOMAIN label="phys"/><DOMAIN label="eng"/><STYLE label="tech"/></LabelGp></HwdGp><FwkSenCnt><POS code="n"/><MEANING>a device that uses strong magnetic fields with very short wavelengths</MEANING><ExCnt><EX>By the end of the war , cavity <b>magnetrons</b> were emitting up to 3.5 million watts of power at stable wavelengths .
+</EX></ExCnt><ExCnt><EX>By early 1942 an experimental radar using this <b>magnetron</b> was successfully tracking aircraft flying at 50-200 feet to about 30 miles and on occasions out to 45 miles .
+</EX></ExCnt></FwkSenCnt></DEnt></Entry>

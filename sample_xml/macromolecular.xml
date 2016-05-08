@@ -1,0 +1,4 @@
+<Entry xmlns="urn:NEID" xmlns:d="urn:NEID" level="10"><DEnt><HwdGp><HWD>macromolecular</HWD></HwdGp><FwkSenCnt><POS code="adj"/><GRAM code="pertnm"/><MEANING>relating to or composed of large molecules </MEANING><LabelGp><DOMAIN label="biol"/><DOMAIN label="chem"/><STYLE label="tech"/></LabelGp><ExCnt><EX>The Institute manages databases of biological data including nucleic acid , protein sequences and <b>macromolecular</b> structures .
+</EX></ExCnt><ExCnt><EX>Towards an understanding and control of X-ray Radiation Damage in <b>macromolecular</b> crystals .
+</EX></ExCnt><ExCnt><EX>CAplus includes biochemistry , organic chemistry , <b>macromolecular</b> chemistry , applied chemistry and chemical engineering , physical , inorganic , and analytical chemistry .
+</EX></ExCnt></FwkSenCnt></DEnt></Entry>

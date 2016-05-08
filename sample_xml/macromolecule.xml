@@ -1,0 +1,4 @@
+<Entry xmlns="urn:NEID" xmlns:d="urn:NEID" level="20"><DEnt><HwdGp><HWD>macromolecule</HWD></HwdGp><FwkSenCnt><POS code="n"/><MEANING>a molecule which is composed of a much larger number of atoms than an ordinary molecule </MEANING><LabelGp><DOMAIN label="biol"/><DOMAIN label="chem"/><STYLE label="tech"/></LabelGp><ExCnt><EX>Her research uses techniques of X-ray crystallography to determine the structures of biological <b>macromolecules</b> .
+</EX></ExCnt><ExCnt><EX>It is delightfully written and beautifully illustrated , guiding the student from simple chemicals to <b>macromolecules</b> to cellular organisation and finally to multicellular organisms .
+</EX></ExCnt><ExCnt><EX>The past forty years have been technically foreshortened by a succession of powerful techniques for unravelling the behaviour of seemingly complicated <b>macromolecules</b> .
+</EX></ExCnt></FwkSenCnt></DEnt></Entry>

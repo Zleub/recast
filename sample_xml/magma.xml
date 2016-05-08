@@ -1,0 +1,5 @@
+<Entry xmlns="urn:NEID" xmlns:d="urn:NEID" level="20"><DEnt><HwdGp><HWD>magma</HWD><LabelGp><DOMAIN label="geol"/></LabelGp></HwdGp><FwkSenCnt><POS code="n"/><GRAM code="mass"/><MEANING> molten substance beneath earth's surface </MEANING><ExCnt><EX>They succeeded in closing off the third of five underground conduits formed beneath the surface crust and through which red-hot <b>magma</b> has been flowing .
+</EX></ExCnt><ExCnt><EX>Not all magmas have the same composition , and <b>magmas</b> with different compositions melt at different temperatures .
+</EX></ExCnt><FwkStrCnt><STRN code="N_premod"/><ExCnt><EX>If the <b>magma</b> pressure is great enough , it will force its way right up the dyke to the surface , spilling out to form lava flows .
+</EX></ExCnt><ExCnt><EX>Detailed geochemical profiling of the lava sequences has revealed a complex history of eruption from <b>magma</b> chambers which , although linked in the same geotectonic setting , had individual development paths within the crust .
+</EX></ExCnt></FwkStrCnt></FwkSenCnt></DEnt></Entry>
