@@ -2,7 +2,7 @@
 * @Author: Zleub
 * @Date:   2016-05-05 13:16:32
 * @Last Modified by:   Zleub
-* @Last Modified time: 2016-05-08 14:41:56
+* @Last Modified time: 2016-05-08 14:43:38
 */
 
 const fs = require('fs');
@@ -129,9 +129,10 @@ var test = (data) => {
 	catch (e) {}
 }
 
+DeleteLogs()
+DeleteIntentExpressions ('anthropology')
 // saveRacialBitch()
 // saveIntent('racial')
-// DeleteLogs()
 
 // Text("Hello World !")
 // fs.readdir('./sample_xml', (err, files) => {
@@ -143,7 +144,6 @@ var test = (data) => {
 // 	)
 // })
 
-// DeleteIntentExpressions ('anthropology')
 
 // var t = []
 // for(var ch = 'a'.charCodeAt(0); ch <= 'z'.charCodeAt(0); ch++ ) {
@@ -164,5 +164,3 @@ var test = (data) => {
 // }
 
 // setTimeout( () => makeField(t), 500)
-
-console.log(recast.developer_token)
